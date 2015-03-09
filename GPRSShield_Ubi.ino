@@ -11,7 +11,7 @@
  created 20 Aug. 2014
  by Mateo Velez - Metavix
 
- This example code is in the public domain.
+ Author: Rodrigo Carbajales MarconiLab
 
 */
 
